@@ -1,6 +1,10 @@
 # Native-Android-Apps-
 
 <li> This is a simple application that is ORIGINALLY code by AHMAD SOLEHIN. </li>
+<li> consists of 3 functions </li>
+- snackbar 
+- dialog 
+- toast
 
 ## screenshot 
 
